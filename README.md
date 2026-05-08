@@ -13,7 +13,8 @@
 
 -  Hiển thị danh sách ghi chú .
   
-<img width="384" height="795" alt="image" src="https://github.com/user-attachments/assets/a6442bfb-b88a-4867-bf57-762055f8d6ce" />
+<img width="386" height="790" alt="image" src="https://github.com/user-attachments/assets/e240c34f-6462-4eae-93e3-eeddfdd4e57a" />
+
 
 -  Chỉnh sửa ghi chú đã tạo.
   
