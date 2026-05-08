@@ -8,11 +8,8 @@
 
 ## 🚀 Chức năng chính (Features)
 Dự án đã hoàn thiện đầy đủ các yêu cầu của bài Lab:
-- [x] Tạo ghi chú mới với tiêu đề và nội dung .
-- [x] Hiển thị danh sách ghi chú .
-- [x] Chỉnh sửa ghi chú đã tạo.
-- [x] Xóa ghi chú với hộp thoại xác nhận .
-- [x] Quản lý trạng thái sử dụng thư viện `provider`.
-- [x] Lưu trữ dữ liệu cục bộ vĩnh viễn (Persistent local storage) bằng `sqflite`.
-- [x] Hiển thị thời gian cập nhật ghi chú (Timestamp tracking).
+-  Tạo ghi chú mới với tiêu đề và nội dung .
+-  Hiển thị danh sách ghi chú .
+-  Chỉnh sửa ghi chú đã tạo.
+-  Xóa ghi chú với hộp thoại xác nhận .
 
