@@ -18,7 +18,8 @@
 
 -  Chỉnh sửa ghi chú đã tạo.
   
-  < img width="382" height="794" alt="image" src="https://github.com/user-attachments/assets/7fb464a9-846a-4f33-9246-59ba37e67b08" />
+<img width="375" height="789" alt="image" src="https://github.com/user-attachments/assets/5312efbc-5120-4aa7-b000-8d6bf91501e5" />
+
 
 -  Xóa ghi chú với hộp thoại xác nhận .
   
