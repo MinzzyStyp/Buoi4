@@ -1,17 +1,18 @@
-# simplenoteapp_2224802010585_tranvanluan
+# Lab 5: Simple Note App 📝
 
-A new Flutter project.
+Đây là kho lưu trữ mã nguồn cho bài thực hành Lab 5 - Xây dựng ứng dụng ghi chú cơ bản bằng Flutter.
 
-## Getting Started
+## Thông tin sinh viên
+- **Họ và tên:** Trần Văn Luân
+- **MSSV:** 2224802010585
 
-This project is a starting point for a Flutter application.
+## 🚀 Chức năng chính (Features)
+Dự án đã hoàn thiện đầy đủ các yêu cầu của bài Lab:
+- [x] Tạo ghi chú mới với tiêu đề và nội dung .
+- [x] Hiển thị danh sách ghi chú .
+- [x] Chỉnh sửa ghi chú đã tạo.
+- [x] Xóa ghi chú với hộp thoại xác nhận .
+- [x] Quản lý trạng thái sử dụng thư viện `provider`.
+- [x] Lưu trữ dữ liệu cục bộ vĩnh viễn (Persistent local storage) bằng `sqflite`.
+- [x] Hiển thị thời gian cập nhật ghi chú (Timestamp tracking).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
