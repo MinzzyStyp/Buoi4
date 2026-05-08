@@ -4,7 +4,7 @@
 - **Họ và tên:** Trần Văn Luân
 - **MSSV:** 2224802010585
 
-##  Chức năng chính (Features)
+##  Chức năng chính 
 -  Tạo ghi chú mới với tiêu đề và nội dung .
 -  Hiển thị danh sách ghi chú .
 -  Chỉnh sửa ghi chú đã tạo.
