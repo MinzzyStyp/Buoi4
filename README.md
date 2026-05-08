@@ -1,6 +1,4 @@
-# Lab 5: Simple Note App 📝
-
-Đây là kho lưu trữ mã nguồn cho bài thực hành Lab 5 - Xây dựng ứng dụng ghi chú cơ bản bằng Flutter.
+# Lab 5: Simple Note App 
 
 ## Thông tin sinh viên
 - **Họ và tên:** Trần Văn Luân
